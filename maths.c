@@ -8,4 +8,8 @@ int subtract(int y,z) {
 return y-z;
 }
 
+int divide(int y,z) {
+return y/z;
+}
+
 
