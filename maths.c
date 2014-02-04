@@ -12,4 +12,6 @@ int divide(int y,z) {
 return y/z;
 }
 
-
+int multiply(int y,z) {
+return y*z;
+}
