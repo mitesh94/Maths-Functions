@@ -19,3 +19,12 @@ return y*z;
 int average(int a,b,c,d,e) {
 return (a+b+c+d+e)/5;
 }
+
+int remainder(int x,y) {
+return x/y;
+}
+
+int double1(int x) {
+return x*2;
+}
+
